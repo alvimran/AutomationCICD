@@ -19,6 +19,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		// Update someh=thing for Git
 
 		String ProductName="ZARA COAT 3";
 				WebDriver driver= new ChromeDriver();
